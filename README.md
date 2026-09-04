@@ -1,6 +1,6 @@
 # gpu-test
 
-[torch](https://pypi.org/project/torch/) の 練習 2026
+[torch](https://pypi.org/project/torch/) の練習 2026
 
 ## 開発
 
@@ -8,6 +8,7 @@
 uv sync
 # NVIDIA があって、touch で使えるか確認
 poe ex1
+poe ex2
 ```
 
 だいじょうぶな例:

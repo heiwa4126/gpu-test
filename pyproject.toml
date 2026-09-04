@@ -5,10 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 authors = [{ name = "heiwa4126", email = "heiwa4126@gmail.com" }]
 requires-python = ">=3.12"
-dependencies = [
-    "numpy>=2.5.2",
-    "torch>=2.14.0",
-]
+dependencies = ["numpy>=2.5.2", "torch>=2.14.0"]
 
 [project.scripts]
 gpu-test = "gpu_test:main"
