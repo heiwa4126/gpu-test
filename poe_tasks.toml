@@ -12,6 +12,7 @@ SHELL = "bash"
 main = "gpu-test"
 
 ex1 = "${RUN_BASE}/gpu_test1.py"
+ex2 = "${RUN_BASE}/gpu_test2.py"
 
 # ======== tests
 test = "pytest -v --tb=short src"
