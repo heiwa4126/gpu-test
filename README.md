@@ -1,6 +1,6 @@
 # gpu-test
 
-[torch](https://pypi.org/project/torch/) の練習 2026
+[PyTorch (torch)](https://pypi.org/project/torch/) の練習 2026
 
 ## 開発
 
