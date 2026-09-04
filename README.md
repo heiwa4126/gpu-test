@@ -1,6 +1,6 @@
 # gpu-test
 
-PyTouch の 練習 2026
+[torch](https://pypi.org/project/torch/) の 練習 2026
 
 ## 開発
 
